@@ -1,0 +1,36 @@
+[
+  {
+    "question": "Jak wyświetlamy komunikaty w Pythonie?",
+    "answers": [
+      {
+        "text": "put",
+        "correct": false
+      },
+      {
+        "text": "write",
+        "correct": false
+      },
+      {
+        "text": "print",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Jak najlepiej uczyć się Pythona?",
+    "answers": [
+      {
+        "text": "z książek",
+        "correct": true
+      },
+      {
+        "text": "z Internetu",
+        "correct": true
+      },
+      {
+       "text": "z różnych źródeł",
+        "correct": true
+      }
+    ]
+  }
+]
